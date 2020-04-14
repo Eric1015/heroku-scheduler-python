@@ -1,1 +1,1 @@
-print("Task has been conducted")
+print("タスクが行われました")
